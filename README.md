@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Olga
 
-- 🧑‍💻 I'm an xperienced developer with a strong background in 1C and growing expertise in Golang. Skilled in system integration, optimization of queries, and development of accounting and production control systems. Familiar with various data formats and protocols (XML, JSON, YAML, HTTP/HTTPS, FTP, FTPS, SFTP). Worked with data buses such as Rabbit MQ and Apache Kafka. Also have experience in working with trade equipment (TSD, barcode scanners, scales).
+- 🧑‍💻 I'm an experienced developer with a strong background in 1C and growing expertise in Golang. Skilled in system integration, optimization of queries, and development of accounting and production control systems. Familiar with various data formats and protocols (XML, JSON, YAML, HTTP/HTTPS, FTP, FTPS, SFTP). Worked with data buses such as Rabbit MQ and Apache Kafka. Also have experience in working with trade equipment (TSD, barcode scanners, scales).
 - 🌱 I'm currently expanding my knowledge in Golang, including working with databases, SQL, REST API, and Docker, although commercial experience in Go is still limited.
 - 🧑‍💻 Looking for opportunities to further enhance my Go skills and contribute to exciting projects.
 - 📫 My contacts:
