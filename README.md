@@ -1,15 +1,24 @@
-## Hi there 👋 I'm Olga
+## Привет👋 Меня зовут Ольга
 
-- 🧑‍💻 I'm an experienced developer with a strong background in 1C and growing expertise in Golang. Skilled in system integration, optimization of queries, and development of accounting and production control systems. Familiar with various data formats and protocols (XML, JSON, YAML, HTTP/HTTPS, FTP, FTPS, SFTP). Worked with data buses such as Rabbit MQ and Apache Kafka. Also have experience in working with trade equipment (TSD, barcode scanners, scales).
-- 🌱 I'm currently expanding my knowledge in Golang, including working with databases, SQL, REST API, and Docker, although commercial experience in Go is still limited.
-- 🧑‍💻 Looking for opportunities to further enhance my Go skills and contribute to exciting projects.
-- 📫 My contacts:
-  * Email: olga.muzychenko@gmail.com
-  * Telegram: https://t.me/muzychenko_o
-- ⚙️ I have a small laboratory at home where I like to solder and build some microcontroller devices.
-- 🏂 In my free time, I enjoy snowboarding, longboarding, listening to music or driving.
+👩‍💻 Я — backend-разработчик с обширным опытом работы в 1С и активно растущим Golang. Специализируюсь на интеграции систем, оптимизации запросов и разработке решений для автоматизации учёта и управления производством.
 
-### Profile stats
+Работала с различными форматами данных (XML, JSON, YAML), сетевыми протоколами (HTTP/HTTPS, FTP/SFTP/FTPS) и message-брокерами (RabbitMQ, Apache Kafka). Есть опыт настройки и работы с торговым оборудованием: ТСД, сканеры штрихкодов, весы.
+
+🌱 Сейчас углубляюсь в разработку на Golang (REST API, работа с БД, SQL, Docker) и микросервисную архитектуру
+
+📈 Ищу интересные проекты, где смогу применять и развивать навыки в Go, участвовать в создании современных backend-решений.
+
+📫 Как связаться:
+✉️ Почта: [olga.muzychenko@gmail.com](mailto:olga.muzychenko@gmail.com)
+📱 Telegram: [@muzychenko_o](https://t.me/muzychenko_o)
+
+Вне работы
+
+🤖 Люблю паять и собирать устройства на микроконтроллерах — дома у меня мини-лаборатория с проектами.
+
+🏂 Катаюсь на сноуборде зимой и на лонгборде летом, обожаю музыку и дорогу 🚗.
+
+### 
 <div id="stat" align="left">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gingerfoxie&theme=dark&hide_border=true" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gingerfoxie&theme=dark&hide_border=true" alt=""/>
